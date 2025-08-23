@@ -17,6 +17,7 @@ body{
     width: 550px;
     padding: 30px 40px;
     border-radius: 12px;
+    overflow: scroll;
 }
 
 .inp{
